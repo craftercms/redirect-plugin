@@ -1,0 +1,18 @@
+<content-type name="/page/redirect" is-wcm-type="true">
+	<label>Redirect</label>
+	<form>/page/plugins/org/craftercms/plugin/redirect/redirect</form>
+	<form-path>simple</form-path>
+	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
+	<file-extension>xml</file-extension>
+	<content-as-folder>true</content-as-folder>
+	<previewable>true</previewable>
+	<quickCreate>false</quickCreate>
+	<quickCreatePath></quickCreatePath>
+	<noThumbnail>true</noThumbnail>
+	<image-thumbnail>thumbnail.png</image-thumbnail>
+	<paths>
+		<includes>
+			<pattern>^/site/website/.*</pattern>
+		</includes>
+	</paths>
+</content-type>
