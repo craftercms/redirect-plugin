@@ -27,7 +27,7 @@ descriptorVersion: 2
 plugin:
   type: site
   id: org.craftercms.plugin.redirect
-  name: Web Redirect Plugin
+  name: Web Redirect Files Plugin
   tags:
     - web
     - redirect
@@ -35,14 +35,14 @@ plugin:
     major: 1
     minor: 0
     patch: 0
-  description: A simple plugin for web redirects
+  description: A plugin to create redirect files
   website:
-    name: Web Redirect Plugin
+    name: Web Redirect Files Plugin
     url: https://github.com/craftercms/redirect-plugin
   media:
     screenshots:
       - title: Redirect
-        description: A simple plugin for web redirects
+        description: A plugin to create redirect files
         url: https://raw.githubusercontent.com/craftercms/redirect-plugin/master/.crafter/cover.png
   developer:
     company:
