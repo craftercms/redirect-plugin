@@ -46,9 +46,9 @@ plugin:
         url: https://raw.githubusercontent.com/craftercms/redirect-plugin/master/.crafter/cover.png
   developer:
     company:
-      name: Crafter Software
-      email: info@craftersoftware.com
-      url: https://craftersoftware.com
+      name: CrafterCMS
+      email: info@craftercms.com
+      url: https://craftercms.com
   license:
     name: MIT
     url: https://opensource.org/licenses/MIT
