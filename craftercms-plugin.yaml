@@ -34,7 +34,7 @@ plugin:
   version:
     major: 1
     minor: 0
-    patch: 4
+    patch: 5
   description: A plugin to create redirect files
   website:
     name: Web Redirect Files Plugin
