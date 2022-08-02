@@ -34,7 +34,7 @@ plugin:
   version:
     major: 1
     minor: 0
-    patch: 3
+    patch: 4
   description: A plugin to create redirect files
   website:
     name: Web Redirect Files Plugin
@@ -59,6 +59,9 @@ plugin:
     - major: 4
       minor: 0
       patch: 1
+    - major: 4
+      minor: 0
+      patch: 2
   crafterCmsEditions:
     - community
     - enterprise
