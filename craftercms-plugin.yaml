@@ -34,7 +34,7 @@ plugin:
   version:
     major: 1
     minor: 0
-    patch: 11
+    patch: 12
   description: A plugin to create redirect files
   website:
     name: Web Redirect Files Plugin
@@ -80,6 +80,18 @@ plugin:
     - major: 4
       minor: 0
       patch: 8
+    - major: 4
+      minor: 1
+      patch: 9
+    - major: 4
+      minor: 1
+      patch: 10
+    - major: 4
+      minor: 1
+      patch: 11
+    - major: 4
+      minor: 1
+      patch: 12
     - major: 4
       minor: 0
       patch: 9
