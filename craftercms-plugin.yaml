@@ -65,6 +65,8 @@ plugin:
       minor: 4
     - major: 4
       minor: 5
+    - major: 4
+      minor: 6
     - major: 5
       minor: 0
   crafterCmsEditions:
